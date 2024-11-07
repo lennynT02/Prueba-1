@@ -1,0 +1,25 @@
+Respuesta #1 | Fecha y Hora: 2024-11-07 15:34:12 | IP: 127.0.0.1 | Respuesta: Pacifico
+Respuesta #2 | Fecha y Hora: 2024-11-07 15:34:45 | IP: 127.0.0.1 | Respuesta: Naranja
+Respuesta #3 | Fecha y Hora: 2024-11-07 15:34:49 | IP: 127.0.0.1 | Respuesta: Canguro
+Respuesta #4 | Fecha y Hora: 2024-11-07 15:34:53 | IP: 127.0.0.1 | Respuesta: Oxigeno
+Respuesta #5 | Fecha y Hora: 2024-11-07 15:34:56 | IP: 127.0.0.1 | Respuesta: 1945
+Respuesta #1 | Fecha y Hora: 2024-11-07 15:45:19 | IP: 127.0.0.1 | Respuesta: oio
+Respuesta #2 | Fecha y Hora: 2024-11-07 15:45:27 | IP: 127.0.0.1 | Respuesta: naranja
+Respuesta #3 | Fecha y Hora: 2024-11-07 15:45:34 | IP: 127.0.0.1 | Respuesta: canjuro
+Respuesta #4 | Fecha y Hora: 2024-11-07 15:45:39 | IP: 127.0.0.1 | Respuesta: oxigen
+Respuesta #5 | Fecha y Hora: 2024-11-07 15:45:42 | IP: 127.0.0.1 | Respuesta: aa
+Respuesta #1 | Fecha y Hora: 2024-11-07 15:48:50 | IP: 172.29.39.242 | Respuesta: oceania
+Respuesta #2 | Fecha y Hora: 2024-11-07 15:48:57 | IP: 172.29.39.242 | Respuesta: paris
+Respuesta #3 | Fecha y Hora: 2024-11-07 15:49:02 | IP: 172.29.39.242 | Respuesta: marte
+Respuesta #4 | Fecha y Hora: 2024-11-07 15:49:09 | IP: 172.29.39.242 | Respuesta: nilo
+Respuesta #5 | Fecha y Hora: 2024-11-07 15:49:17 | IP: 172.29.39.242 | Respuesta: leonar davinci
+Respuesta #6 | Fecha y Hora: 2024-11-07 15:49:38 | IP: 172.29.39.242 | Respuesta: salir
+Respuesta #7 | Fecha y Hora: 2024-11-07 15:49:40 | IP: 172.29.39.242 | Respuesta: s
+Respuesta #8 | Fecha y Hora: 2024-11-07 15:49:41 | IP: 172.29.39.242 | Respuesta: s
+Respuesta #9 | Fecha y Hora: 2024-11-07 15:49:42 | IP: 172.29.39.242 | Respuesta: s
+Respuesta #10 | Fecha y Hora: 2024-11-07 15:49:43 | IP: 172.29.39.242 | Respuesta: s
+Respuesta #1 | Fecha y Hora: 2024-11-07 15:50:37 | IP: 172.29.39.242 | Respuesta: asia
+Respuesta #2 | Fecha y Hora: 2024-11-07 15:50:41 | IP: 172.29.39.242 | Respuesta: paris
+Respuesta #3 | Fecha y Hora: 2024-11-07 15:50:46 | IP: 172.29.39.242 | Respuesta: sa
+Respuesta #4 | Fecha y Hora: 2024-11-07 15:50:55 | IP: 172.29.39.242 | Respuesta: amazonas
+Respuesta #5 | Fecha y Hora: 2024-11-07 15:51:02 | IP: 172.29.39.242 | Respuesta: leonardodavinci
